@@ -23,6 +23,16 @@
 		color: #fff;
 		background: #f35359;
 
+		@media (max-width: 528px) {
+			width: calc(256px*1.25);
+			height: calc(256px*1.25);
+		}
+
+		@media (max-width: 365px) {
+			width: calc(256px*1.15);
+			height: calc(256px*1.15);
+		}
+
 		&--name {
 			position: relative;
 			padding: 130px 40px 75px 40px;
