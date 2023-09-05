@@ -9,7 +9,7 @@
   "author": "Me",
   "license": "MIT",
   "dependencies": {
-    "jquery": "1.1.1"
+    "jquery": "3.5.0"
   },
   "devDependencies": {
     "browser-sync": "^2.26.7",
